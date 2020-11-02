@@ -1,2 +1,1 @@
-##Classification Fashion MNIST
-##
+# Classification Fashion MNIST
